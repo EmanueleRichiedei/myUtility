@@ -95,6 +95,15 @@ public class CotrollaInteri {
 
 		return num;
 	}
+	
+	/**
+	 * @param n, V_MIN,V_MAX
+	 * 
+	 * controlla se un certo numero in input è tra i due valori inseriti,
+	 * in caso negativo fa reinserire il numero
+	 * 
+	 * @return n
+	 */
 
 	public static int compreso(int n, int v_MIN, int v_MAX) {
 		boolean finito=false;
