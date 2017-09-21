@@ -80,7 +80,7 @@ public class CotrollaInteri {
 	 * @param num
 	 *            numero da controllare
 	 * @param sogliaMin
-	 *            soglia oltre cui non andare
+	 *            soglia oltre cui non  andare
 	 * @param sogliaMax
 	 *            soglia sotto cui non andare
 	 * @return int
