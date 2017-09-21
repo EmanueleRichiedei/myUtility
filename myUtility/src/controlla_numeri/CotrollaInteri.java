@@ -100,7 +100,7 @@ public class CotrollaInteri {
 	 * @param n, V_MIN,V_MAX
 	 * 
 	 * controlla se un certo numero in input è tra i due valori inseriti,
-	 * in caso negativo fa reinserire il numero
+	 * in caso negativo fa reinserire il numero in input
 	 * 
 	 * @return n
 	 */
